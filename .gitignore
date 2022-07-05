@@ -1,2 +1,3 @@
-gsap
-css
+**/gsap
+public/css
+node_modules
